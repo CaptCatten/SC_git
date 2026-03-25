@@ -10,4 +10,5 @@
 pizza ideas:
 - spinach 
 - feta cheese
-
+- artichoke
+- ham
