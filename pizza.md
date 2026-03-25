@@ -7,3 +7,7 @@
 - water
 - peparonni
 
+pizza ideas:
+- spinach 
+- feta cheese
+
