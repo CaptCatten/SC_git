@@ -1,8 +1,8 @@
 #pizza
-
 ## Ingredience
 
--tomato
--cheese
--dough
+- tomato
+- mozzarella
+- dough
+
 
