@@ -4,8 +4,7 @@
 - tomato
 - mozzarella
 - dough
-- water
-- peparonni
+
 
 pizza ideas:
 - spinach 
