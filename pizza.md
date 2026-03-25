@@ -13,3 +13,10 @@ pizza ideas:
 - ham
 - nutella? 
 
+pizza ideas:
+- spinach 
+- feta cheese
+- artichoke
+- ham
+- nutella? 
+
